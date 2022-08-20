@@ -47,19 +47,19 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Usage:
 
-![Screenshot of load page](./Assets/inicio.JPG)
+![Screenshot of load page](./assets/inicio.JPG)
 
 This is the main page for the aplication, in this page the user just need to click on the button to start using the Note Taker
 
-![Usage of the page components](./Assets/title.JPG)
+![Usage of the page components](./assets/title.JPG)
 
 The usage is very simple, the user have an space for the tittle of the note, and another space for the description as well. Both must be filled
 
-![Usage of the page components](./Assets/save.jpg)
+![Usage of the page components](./assets/save.jpg)
 
 Once that user has added a tittle and a description, in order to save the note the user must click on save button. 
 
-![Usage of the page components](./Assets/final.jpg)
+![Usage of the page components](./assets/final.jpg)
 
 When the user click on save, the note will appear in the left side of the screen, if the user click on the note this will appear in the screen again, or can delete it by clicking delete button.
 
